@@ -12,7 +12,7 @@ st.write("""Welcome to the homepage for our UC Berkeley Capstone project. Here y
     
 im = Image.open("images/chetan.jpeg")
 im = im.resize((500,500))
-im2 = Image.open("images/chetan.jpeg")
+im2 = Image.open("images/Evan.png")
 im3 = Image.open("images/khakali.png")
 
 #st.image([im,im2,im3], caption=['Chetan - UC Berkeley','hi','bye'],width=170)
